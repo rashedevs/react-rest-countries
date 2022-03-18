@@ -1,0 +1,9 @@
+.countries{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap:10px;
+}
+.cont h1{
+    color: crimson;
+    padding: 10px;
+}
